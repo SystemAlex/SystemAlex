@@ -6,24 +6,26 @@ Soy **Desarrollador Full Stack** y programador de software, apasionado por crear
 
 ## 🛠️ Tecnologías y habilidades
 
-- **Lenguajes:** VB, JavaScript
-- **Frameworks:** React, Express
+- **Lenguajes:** Visual Basic, C#, JavaScript
+- **Frameworks:** React, Express, Next.js
 - **Desarrollo Full Stack:** Experiencia en la creación de aplicaciones completas, desde la interfaz de usuario hasta la lógica del servidor.
 
 ## 🚀 Proyecto destacado
 
-- [MentorHub-PF](https://github.com/SystemAlex/MentorHub-PF): Mi proyecto principal, donde he aplicado mis conocimientos y pasión por el desarrollo de software.
+- [MentorHub-PF](https://github.com/SystemAlex/MentorHub-PF): Mi proyecto principal, donde he aplicado en equipo mis conocimientos y pasión por el desarrollo de web.
 
 ## 🌐 Conéctate conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/francisco-beese-4291b1346/)
+- ✉️ Email: [systemalexpc@gmail.com](mailto:systemalexpc@gmail.com)
+- 📱 WhatsApp: [+54 9 3757 602416](https://wa.me/5493757602416)
 
 ## 🎉 Un poco más sobre mí
 
 - 😎 Siempre dispuesto a aprender algo nuevo.
 - 🤝 Me gusta colaborar y trabajar en equipo.
-- 🕹️ Amante de la tecnología, los videojuegos y los desafíos de lógica.
-- ✨ Frase favorita: _"El mejor código es el que nunca se escribe, pero el que se escribe, ¡que sea elegante!"_
+- 🕹️ Amante de la tecnología y los desafíos de lógica.
+- ✨ Frase favorita: _"La tecnología avanza tan rápido que a veces mi código necesita un GPS… pero siempre encuentra el camino con una sonrisa 🤖🚀."_
 
 ---
 
