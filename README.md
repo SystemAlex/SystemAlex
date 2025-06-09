@@ -16,7 +16,7 @@ Soy **Desarrollador Full Stack** y programador de software, apasionado por crear
 
 ## 🌐 Conéctate conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/francisco-beese-4291b1346/)
+- ✔️ Mi prefil Profecional: [LinkedIn](https://www.linkedin.com/in/francisco-beese-4291b1346/)
 - ✉️ Email: [systemalexpc@gmail.com](mailto:systemalexpc@gmail.com)
 - 📱 WhatsApp: [+54 9 3757 602416](https://wa.me/5493757602416)
 
