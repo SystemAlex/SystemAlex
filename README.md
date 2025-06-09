@@ -14,7 +14,9 @@ Soy **Desarrollador Full Stack** y programador de software, apasionado por crear
 
 ## 🚀 Proyecto destacado
 
-- [MentorHub-PF](https://github.com/SystemAlex/MentorHub-PF): Mi proyecto principal, donde he aplicado en equipo mis conocimientos y pasión por el desarrollo de web.
+- [MentorHub-PF](https://github.com/SystemAlex/MentorHub-PF): Mi proyecto principal, donde he aplicado en equipo mis conocimientos y pasión por el desarrollo de web. 
+  🌐 **Implementado en un servidor AWS y accesible públicamente:**  
+  [mentorhub.info.gf](http://mentorhub.info.gf/)
 
 ## 🚀 Otros Proyectos Publicos
 
@@ -23,7 +25,7 @@ Soy **Desarrollador Full Stack** y programador de software, apasionado por crear
 
 ## 🌐 Conéctate conmigo
 
-- ✔️ Mi prefil Profecional: [LinkedIn](https://www.linkedin.com/in/francisco-beese-4291b1346/)
+- ✔️ Mi prefil Profecional: [LinkedIn](https://www.linkedin.com/in/francisco-beese/)
 - ✉️ Email: [systemalexpc@gmail.com](mailto:systemalexpc@gmail.com)
 - 📱 WhatsApp: [+54 9 3757 602416](https://wa.me/5493757602416)
 
