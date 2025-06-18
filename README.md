@@ -1,9 +1,13 @@
+![Banner](banner.png)
+
 # 👋 ¡Hola, soy SystemAlex!
 Me llamo Francisco Guillermo Alexandro Beese, vivo en [Wanda, Misiones, Argentina](https://www.bing.com/maps?&cp=-25.969341~-54.513974&lvl=11.57571&pi=0&osid=638af563-b0b8-4fd3-8385-c2bf4b16da85&v=2&sV=2&form=S00027)
 
 ## 👨‍💻 Sobre mí
 
 Soy **Desarrollador Full Stack** y programador de software, apasionado por crear soluciones innovadoras y eficientes. Me encanta trabajar tanto en el frontend como en el backend, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
+
+📈 **[Mi actividad en GitHub](https://github.com/SystemAlex#js-contribution-activity-description)** 
 
 ## 🛠️ Tecnologías y habilidades
 
